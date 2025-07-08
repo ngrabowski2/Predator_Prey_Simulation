@@ -7,10 +7,11 @@ another, they will flock together. This can be disrupted by a predator; in which
 move away from the predator.
 
 # To run the simulation 
- Install Unity Hub
- Create a new project
- Download package here: https://drive.google.com/file/d/16xhPtACUFe4C_kHAer7MvVvLMC9aKvSK/view?usp=drive_link
- Import package into unity project
- Click Run
+  Install Unity Hub
+  Create a new project
+  Download package here: https://drive.google.com/file/d/16xhPtACUFe4C_kHAer7MvVvLMC9aKvSK/view?usp=drive_link
+  Import package into unity project
+  Click Run
 
-# View video deomonstration here: https://youtu.be/fYWeO4fEiT8
+# View video deomonstration here
+https://youtu.be/fYWeO4fEiT8
